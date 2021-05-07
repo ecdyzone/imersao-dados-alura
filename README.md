@@ -24,16 +24,25 @@ Eu queria um arquivo unificado com todas as aulas comentadas, então criei dois 
 
 # Abrindo no Google Collab
 
+> Link do github para o arquivo com desafios NÃO resolvidos: https://github.com/mumaral/imersao-dados-alura/blob/main/Imersao-Tudo_Desafios-Nao-Resolvidos.ipynb
+>
 > Link do github para o arquivo com desafios resolvidos: https://github.com/mumaral/imersao-dados-alura/blob/main/Imersao-Tudo_Desafios-Resolvidos.ipynb
 >
-> Link do github para o arquivo com desafios NÃO resolvidos: https://github.com/mumaral/imersao-dados-alura/blob/main/Imersao-Tudo_Desafios-Nao-Resolvidos.ipynb
+> (Ao clicar nestes links, pode ser que o github não carregue de primeira a visualização do arquivo devido ao tamanho, mas é só clicar no “Reload” que funciona)
 
-Para abrir no [Google Collab](https://colab.research.google.com/) a forma mais fácil é:
+Para abrir no [Google Collab](https://colab.research.google.com/), a forma mais fácil é:
 
 1. No canto superior esquerdo do google collab clique na sequência: File > Open Notebook > Github
 2. Cole o link do github e clique na lupa
 3. Vai aparecer o símbolo do github com um link abaixo, clique neste link para abrir o notebook
-4. IMPORTANTE: No canto superior esquerdo clique em "Copy to Drive", para criar uma cópia na sua do google direto do meu github. Se não fizer isso, você não conseguirá salvar nenhuma alteração que fizer.
+4. IMPORTANTE: No canto superior esquerdo clique em "Copy to Drive", para criar uma cópia na sua do google direto do meu github. Se não fizer isso, você não conseguirá salvar nenhuma alteração que fizer
+
+Outra opção seria:
+
+1. Abrir o link do arquivo desejado (links acima)
+2. Clicar em download, no lado direito da tela
+3. No canto superior esquerdo do google collab clique na sequência: File > Open Notebook > Upload
+4. Arraste o arquivo baixado pra lá
 
 # Como unificar notebooks
 
