@@ -14,9 +14,9 @@ Notei que os comentários da aula se perdiam. Por exemplo, o arquivo da aula 4 c
 
 Eu queria um arquivo unificado com todas as aulas comentadas, então criei dois arquivos pra facilitar minha vida e de quem mais quiser:
 
-- Um arquivo com todas as aulas comentadas + desafios não resolvidos
+- [Um arquivo](https://github.com/mumaral/imersao-dados-alura/blob/main/Imersao-Tudo_Desafios-Nao-Resolvidos.ipynb) com todas as aulas comentadas + desafios não resolvidos
 
-- Outro arquivo com todas as aulas comentadas + desafios resolvidos (resoluções da alura, não minhas)
+- [Outro arquivo](https://github.com/mumaral/imersao-dados-alura/blob/main/Imersao-Tudo_Desafios-Resolvidos.ipynb) com todas as aulas comentadas + desafios resolvidos (resoluções da alura, não minhas)
 
   
 
@@ -24,9 +24,9 @@ Eu queria um arquivo unificado com todas as aulas comentadas, então criei dois 
 
 # Abrindo no Google Collab
 
-> Link do github para o arquivo com desafios resolvidos: 
+> Link do github para o arquivo com desafios resolvidos: https://github.com/mumaral/imersao-dados-alura/blob/main/Imersao-Tudo_Desafios-Resolvidos.ipynb
 >
-> Link do github para o arquivo com desafios NÃO resolvidos:
+> Link do github para o arquivo com desafios NÃO resolvidos: https://github.com/mumaral/imersao-dados-alura/blob/main/Imersao-Tudo_Desafios-Nao-Resolvidos.ipynb
 
 Para abrir no [Google Collab](https://colab.research.google.com/) a forma mais fácil é:
 
